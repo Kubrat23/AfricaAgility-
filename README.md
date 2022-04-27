@@ -1,5 +1,7 @@
 # Kubrat_Portfolio
 ####Data Science Portfolio
+
+
 ###Hackathon Project - AfricaAgility Bootcamp 2022
 
 The project was about the modern pharmaceutical supply chain which is complex,medicines are being made from ingredients sourced from different coubtries. The final formulations are then exported, packaged, repackaged and salesx happens in many countries. Drug changes hands many times between the manufacturer and patient; every transaction is an opportunity for falsified or substandard products to infiltrate the market. Changes in drug distribution system could improve drug quality around the world.
