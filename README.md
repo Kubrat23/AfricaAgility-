@@ -9,3 +9,5 @@ The project was about the modern pharmaceutical supply chain which is complex,me
 ###PROBLEM STATEMENT
 What are the Experiences of visiting different pharmacies to find medications? 
 Finding medication should be a problem and should be stressless because wasting time can be very dangerous to anyone who needs drug during an emergency. This was while there was a survey on some particular drug to know their effectiveness on the population as well as their availabily. Dataset from generated from the survey and i woerkdd with my team to analyse and generate insight on what to do and how to profer solutions to it.
+
+The .csv file of the data and the analysis on jupyter notebook will be uploaded here.
